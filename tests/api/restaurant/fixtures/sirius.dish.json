@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "category": "MAIN_COURSE",
+    "restaurant_id": 1,
+    "dish_name": "Спагетти Болоньезе",
+    "description": "Классическая итальянская паста с мясным соусом",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "category": "MAIN_COURSE",
+    "restaurant_id": 1,
+    "dish_name": "Гриль-лосось",
+    "description": "Свежий лосось, приготовленный на гриле до совершенства",
+    "price": 15.99
+  },
+  {
+    "id": 3,
+    "category": "DESSERT",
+    "restaurant_id": 1,
+    "dish_name": "Тирамису",
+    "description": "Традиционный итальянский десерт с вкусом кофе",
+    "price": 6.99
+  },
+  {
+    "id": 4,
+    "category": "APPETIZER",
+    "restaurant_id": 2,
+    "dish_name": "Салат Капрезе",
+    "description": "Свежий моцарелла, помидоры и базилик с бальзамическим уксусом",
+    "price": 8.99
+  },
+  {
+    "id": 5,
+    "category": "MAIN_COURSE",
+    "restaurant_id": 2,
+    "dish_name": "Курица Альфредо",
+    "description": "Кремовая паста с курицей на гриле и соусом Альфредо",
+    "price": 14.99
+  },
+  {
+    "id": 6,
+    "category": "DESSERT",
+    "restaurant_id": 2,
+    "dish_name": "Чизкейк",
+    "description": "Нежный чизкейк с основой из грэхемовых сухарей",
+    "price": 7.99
+  }
+]

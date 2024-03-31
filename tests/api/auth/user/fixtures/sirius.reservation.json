@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "restaurant_id": 1,
+    "date_reserv": "2024-03-03T11:30:57.390Z",
+    "guest_count": 2,
+    "comment": "Особые требования к столику"
+  }
+]

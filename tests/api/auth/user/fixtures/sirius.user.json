@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "username": "user",
+    "hashed_password": "d8578edf8458ce06fbc5bb76a58c5ca4",
+    "phone": "+79991234567",
+    "role": "USER"
+  }
+]

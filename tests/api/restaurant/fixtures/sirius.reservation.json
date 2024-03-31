@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "restaurant_id": 1,
+    "date_reserv": "2024-02-28T18:16:50",
+    "guest_count": 2,
+    "comment": "Особые требования к столику"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "restaurant_id": 1,
+    "date_reserv": "2024-02-28T18:16:50",
+    "guest_count": 2,
+    "comment": "Особые требования к столику"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "restaurant_id": 2,
+    "date_reserv": "2024-02-28T18:16:50",
+    "guest_count": 2,
+    "status": true,
+    "comment": "Особые требования к столику"
+  }
+]
